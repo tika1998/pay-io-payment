@@ -1,5 +1,5 @@
 {
-  "name": "pay-io-payment/offline-payments",
+  "name": "payiopayment/offlinepayments",
   "description":"Magento 2 pay Io payment method",
   "require": {
     "php": "7.3.21"
