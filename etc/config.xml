@@ -5,7 +5,7 @@
         <payment>
             <payio>
                 <active>0</active>
-                <model>PayIoPayment\OfflinePayments\Model\PayIoPayments</model>
+                <model>payiopayment\offlinepayments\Model\PayIoPayments</model>
                 <payment_action>authorize_capture</payment_action>
                 <order_status>pending</order_status>
                 <title>PayIo Payment</title>
