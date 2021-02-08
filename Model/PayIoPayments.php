@@ -1,7 +1,7 @@
 <?php
 
 
-namespace PayIoPayment\OfflinePayments\Model;
+namespace payiopayment\offlinepayments\Model;
 
 
 class PayIoPayments extends \Magento\Payment\Model\Method\AbstractMethod
