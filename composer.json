@@ -1,11 +1,11 @@
 {
-  "name": "payIo/module-payment",
-  "description": "Pay iO Payment for Magento 2",
+  "name": "pay-io-payment/offline-payment",
+  "description":"Magento 2 pay Io payment method",
   "require": {
-    "php": "7.3.21"
+    "php": "^7.1.0"
   },
   "type": "magento2-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "authors": [
     {
