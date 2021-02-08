@@ -4,7 +4,7 @@
  * See COPYING.txt for license details.
  */
 
-namespace PayIoPayment\OfflinePayments\Cron;
+namespace payiopayment\offlinepayments\Cron;
 
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\ClientFactory;
