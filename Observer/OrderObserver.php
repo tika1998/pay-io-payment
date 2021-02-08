@@ -1,5 +1,5 @@
 <?php 
-namespace PayIoPayment\OfflinePayments\Observer;
+namespace payiopayment\offlinepayments\Observer;
 
 use GuzzleHttp\Client as GuzzleClient;
 use GuzzleHttp\ClientFactory;
